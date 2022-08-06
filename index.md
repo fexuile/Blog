@@ -1,6 +1,6 @@
 # Welcome
 
-![](vx_images/409793822220745.png =250x)
+![](vx_images/gjh.png =250x)
 
 `qq:2165008534` | `fexuile@outlook.com` | `fexuile@stu.pku.edu.cn`
 

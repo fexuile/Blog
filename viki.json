@@ -1,7 +1,7 @@
 {
     "brand": "viki",
-    "title": "Viki - A simple Wiki page in Markdown from notebook of VNote",
-    "favicon": "./gjh.png",
+    "title": "新的生活",
+    "favicon": "./ico.png",
     "footer": "",
     "show_suffix": false,
     "load_before_search": true,
@@ -9,7 +9,7 @@
     "markdown":
     {
         "html": true,
-        "breaks": true,
+        "breaks": false,
         "linkify": false,
         "typographer": false,
         "lang_prefix": "lang-",
