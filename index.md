@@ -9,3 +9,7 @@
 会不定期更博，敬请关注
 
 因为$viki$的原因所以没有开放评论功能，所以如果有什么想说的，可以给我发邮件
+
+以下是友情链接：
+
+- [water_miのBlog:https://blog.water-mi.com](https://blog.water-mi.com)
