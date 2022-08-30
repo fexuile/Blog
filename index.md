@@ -12,4 +12,6 @@
 
 以下是友情链接：
 
-- [water_miのBlog:https://blog.water-mi.com](https://blog.water-mi.com)
+- [water_mi:https://blog.water-mi.com](https://blog.water-mi.com)
+- [M_sea:https://m-sea-blog.com](https://m-sea-blog.com)
+- [撤云的博客:https://www.cnblogs.com/hbxblog](https://www.cnblogs.com/hbxblog)
