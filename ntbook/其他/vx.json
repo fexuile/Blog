@@ -1,5 +1,5 @@
 {
-    "created_time": "2022-07-04T14:37:43Z",
+    "created_time": "2022-10-01T14:26:17Z",
     "files": [
         {
             "attachment_folder": "",
@@ -23,15 +23,9 @@
         }
     ],
     "folders": [
-        {
-            "name": "影评"
-        },
-        {
-            "name": "周记"
-        }
     ],
-    "id": "4",
-    "modified_time": "2022-07-04T14:37:43Z",
-    "signature": "177750604599",
+    "id": "25",
+    "modified_time": "2022-10-01T14:26:17Z",
+    "signature": "113818297978377",
     "version": 3
 }
