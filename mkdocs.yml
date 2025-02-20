@@ -1,0 +1,12 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - AAA: 
+    - a/about.md
+    - a/aa.md
+
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+  language: zh
