@@ -1,9 +1,12 @@
-site_name: My Docs
+site_name: Blog of Jinhao
 nav:
   - Home: index.md
-  - AAA: 
-    - a/about.md
-    - a/aa.md
+  - 课程评测: 
+    - 写在前面的: course-evaluate/index.md
+    - 必修课: course-evaluate/compulsory.md
+    # - a/aa.md
+  - 课程笔记: 
+    - 计算机视觉: Notes/CV.md
 
 theme: 
   name: material
