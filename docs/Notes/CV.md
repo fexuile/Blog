@@ -2,9 +2,10 @@
 
 ## Intro
 ### Human Visual System
-modality: 模态，视觉是一种模态。
+*modality: 模态*。 视觉是一种模态
 
 人类的视觉系统包括：
+
 - Eyes (sensory organ)
 - Parts of the central nervous system
     - Retina layers

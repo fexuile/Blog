@@ -7,9 +7,25 @@ nav:
     # - a/aa.md
   - 课程笔记: 
     - 计算机视觉: Notes/CV.md
+    - 编译原理: Notes/Compiler.md
+    - 数据库概论: Notes/database.md
 
 theme: 
   name: material
   features:
     - navigation.tabs
   language: zh
+
+markdown_extensions:
+  # - attr_list
+  # - md_in_html
+  # - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+# plugins:
+#   - glightbox
