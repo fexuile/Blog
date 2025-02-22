@@ -483,6 +483,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -558,6 +567,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -591,18 +609,20 @@
     - Optic tract
     - Visual cortex</p>
 <p>Visual pathway: visual field-&gt;retina-&gt;optic nerve-&gt;...-&gt;optic tract-&gt;...-&gt;visual cortex</p>
-<p>Visual System要做的事情：
-- visual sensation（感受）</p>
-<pre><code>Monocular Vision VS Binocular Vision and Stereopsis
-
-双眼可以感知立体视觉，对距离和方位存在disparity.
-</code></pre>
+<p>Visual System要做的事情：</p>
 <ul>
+<li>
+<p>visual sensation（感受）</p>
+<p>Monocular Vision VS Binocular Vision and Stereopsis</p>
+<p>双眼可以感知立体视觉，对距离和方位存在disparity.</p>
+</li>
 <li>
 <p>visual perception（感知）：the process of acquiring knowledge about environmental objects and events by extracting information from the light they emit or reflect.</p>
 <p>视觉区别于相机的一点在于相机没有感知能力。</p>
-<p>examples: motion perception, pattern recognition(facial recognition), visual cognition.
-- visual motor coordination（视觉运动协调）</p>
+<p>examples: motion perception, pattern recognition(facial recognition), visual cognition.</p>
+</li>
+<li>
+<p>visual motor coordination（视觉运动协调）</p>
 <p>examples: Eye-Hand Coordination, Running, Balancing.</p>
 <p>Perception-Action Loop: 感知动作循环，定义高级智能（具身智能）</p>
 <p>interaction with language system</p>
@@ -612,7 +632,22 @@
 <ul>
 <li>Low-level Vision: Processing and Feature Extaction. 防抖之类的最基本的操作。</li>
 <li>Mid-level Vision: make inferences about the world. 3D重建，扫地机器人，照片缝合等。 </li>
-<li>High-level Vision: Understand. 人脸识别。</li>
+<li>High-level Vision: Understand. 人脸识别，无人购物（最依赖深度学习）。</li>
+</ul>
+<p>Graphics VS Vision: 逆过程。图形学是给定位置等还原画面（渲染 rendering）；计算机视觉是给定图片算位置。</p>
+<p>Synthetic data: 用图形学来提供大量的数据集</p>
+<p>embodied agents: 具身</p>
+<p>大模型(LM): Disembodied Models（GPT-4v） + Embodies VLA Models（自驾）.</p>
+<h3 id="summary">Summary</h3>
+<p>Computer Vision <strong>DO</strong>:</p>
+<ul>
+<li>visual data acquisition (similar to human eyes but comes with many more choices)</li>
+<li>signal processing and feature extraction (mostly low-level)</li>
+<li>analyze local structures and then 3D reconstruct the original scene (midlevel)</li>
+<li>understanding (mostly high-level)</li>
+<li>generation</li>
+<li>vision-language tasks</li>
+<li>and further enabling embodied agents to take actions.</li>
 </ul>
 
 
