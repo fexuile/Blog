@@ -1,14 +1,14 @@
 site_name: Blog of Jinhao
 nav:
   - Home: index.md
+  - 课程笔记: 
+    - 计算机视觉: lecture-notes/CV.md
+    - 编译原理: lecture-notes/Compiler.md
+    - 数据库概论: lecture-notes/database.md
   - 课程评测: 
     - 写在前面的: course-evaluate/index.md
     - 必修课: course-evaluate/compulsory.md
     # - a/aa.md
-  - 课程笔记: 
-    - 计算机视觉: Notes/CV.md
-    - 编译原理: Notes/Compiler.md
-    - 数据库概论: Notes/database.md
 
 theme: 
   name: material
